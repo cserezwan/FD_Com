@@ -1,6 +1,6 @@
 # Comparison of Face Detections Systems
 
--MTCNN
--DNN
+-MTCNN 
+-DNN 
 -HAAR
  
